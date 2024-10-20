@@ -12,6 +12,6 @@ The data given in this file ("loan.csv")  contains information about past loan a
 4. PDF Presentation for case study : Lending Club Case study.pdf
 
 ## Case Study Solution Files:
-##### 1. Case Study Python(Jupyter Notebook) Solution: https://github.com/ayazroomy/LendingClubCaseStudy/blob/main/analysis/LendingClubCaseStudy_Final_Solution.ipynb
+##### 1. Case Study Python(Jupyter Notebook) Solution:  https://github.com/ayazroomy/LendingClubCaseStudy/blob/main/analysis/Ayaz_Avinash_LendingCaseStudy_Solution.ipynb
    
 ##### 2. Case Study Presentation in PDF: https://github.com/ayazroomy/LendingClubCaseStudy/blob/main/Lending%20Club%20Case%20study.pdf
