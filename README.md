@@ -8,7 +8,7 @@ The data given in this file ("loan.csv")  contains information about past loan a
 ##### Files :
 1. loan.csv  : Input File for analysis
 2. Data_Dictionary : Meta data Info of Loan.csv File Fields
-3. Python Notebook (Case Study Solution): LendingClubCaseStudy_Final_Solution.ipynb (available in folder: /analysis/LendingClubCaseStudy_Final_Solution.ipynb)
+3. Python Notebook (Case Study Solution): LendingClubCaseStudy_Final_Solution.ipynb (available in folder: /analysis/Ayaz_Avinash_LendingCaseStudy_Solution.ipynb)
 4. PDF Presentation for case study : Lending Club Case study.pdf
 
 ## Case Study Solution Files:
